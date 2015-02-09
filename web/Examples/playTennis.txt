@@ -1,0 +1,7 @@
+Weather?	Rain	Wind?
+Wind?	Weak	Play tennis!
+Humidity?	High	Don't play tennis!
+Weather?	Sunny	Humidity?
+Weather?	Overcast	Don't play tennis!
+Humidity?	Normal	Play tennis!
+Wind?	High	Don't play tennis!

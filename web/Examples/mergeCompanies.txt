@@ -1,0 +1,8 @@
+We are motivated by a desire to advance our mission.	Yes	We are motivated by a clearly stated outcomes.
+We are motivated by a clearly stated outcomes.	Yes	Organization is not currently in crisis mode.
+Time is available to devote to this effort over the next several months.	Yes	Merge the companies.
+We are motivated by a clearly stated outcomes.	No	Clarify your motivation further.
+Organization is not currently in crisis mode.	No	Analyze your area of weakness, and be aware on how they may impact your chances of success in a merger negotiation process.
+Organization is not currently in crisis mode.	Yes	Time is available to devote to this effort over the next several months.
+We are motivated by a desire to advance our mission.	No	Stop.
+Time is available to devote to this effort over the next several months.	No	Question how important this is to you, and how wise it is to proceed.

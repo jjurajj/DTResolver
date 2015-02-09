@@ -1,0 +1,13 @@
+Patient arrives. Is patient in the system?	Yes	Nurse available?
+Wait for the nurse	Nurse available	Nurse available?
+Need medication?	No	Patient leaves
+Take pulse, blood presure, weight, urine. Is doctor available?	No	Wait for the doctor
+Patient with doctor. Need follow-up appointment?	No	Need medication?
+Patient arrives. Is patient in the system?	No	Patient needs to complete paperwork.
+Wait for the doctor	Doctor available	Take pulse, blood presure, weight, urine. Is doctor available?
+Nurse available?	Yes	Take pulse, blood presure, weight, urine. Is doctor available?
+Nurse available?	No	Wait for the nurse
+Take pulse, blood presure, weight, urine. Is doctor available?	Yes	Patient with doctor. Need follow-up appointment?
+Patient needs to complete paperwork.	Completed	Patient arrives. Is patient in the system?
+Patient with doctor. Need follow-up appointment?	Yes	Make an appointment. Patient leaves
+Need medication?	Yes	Patient sent to pharmacy. Patient leaves
